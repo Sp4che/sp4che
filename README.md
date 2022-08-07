@@ -4,9 +4,6 @@
   <a href="https://www.instagram.com/kxxnzy/">Instagram</a> •
   <a href="https://twitter.com/kxxnzy">Twitter</a>
 </p>
-
-<img align="right" height="150rem" alt="PNG" src="https://images-ext-1.discordapp.net/external/N7gUHXwao3WmGDWvcyfJO_4_tCx4fjVUQ-CeuHUdd0U/%3Fsize%3D4096/https/cdn.discordapp.com/icons/918227969003114558/3f8df3318e0d205caa5755c30540cf5e.png" />
-
 **Talking about Personal Stuffs:**
 
 - 🌱  Python, PHP, CSS, Javascript and Java 
@@ -35,6 +32,6 @@
 
 
 
-<p align="center">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/442516411345010690)](https://discord.com/users/442516411345010690)
-</p>
+
