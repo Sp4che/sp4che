@@ -1,13 +1,13 @@
 
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/kaanshudev">kaanshu.dev</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/sp4che">Spache</a></h2>
 <p align="center">
-  <a href="https://www.instagram.com/kxxnzy/">Instagram</a> •
-  <a href="https://twitter.com/kxxnzy">Twitter</a>
+  <a href="https://www.instagram.com/sp4che/">Instagram</a> •
+  <a href="https://twitter.com/sp4che">Twitter</a>
 </p>
 **Talking about Personal Stuffs:**
 
 - 🌱  Python, PHP, CSS, Javascript and Java 
-- 📫  How to reach me: kaanshu.dev@gmail.com / kaanshu#0001 [discord]
+- 📫  How to reach me: kaanshu.dev@gmail.com / Spache#0001 [discord]
 
 ***
 
